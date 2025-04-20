@@ -1,5 +1,5 @@
 // src/pages/Home.tsx
-import Navbar from '../components/Navbar';
+import Navbar from '../components/NavBar';
 import Hero from '../components/Hero';
 import Features from '../components/Features.tsx';
 import Pricing from '../components/Pricing';
